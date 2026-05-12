@@ -1,0 +1,9 @@
+id,name,category,price,stock,supplier,special
+P1001,Coles Milk Full Cream 2L,Dairy,3.1,45,Coles Brand,true
+P1002,Bananas 1kg,Fresh Produce,4.5,80,Queensland Farms,false
+P1003,Bread Wholemeal 700g,Bakery,2.8,35,Coles Bakery,true
+P1004,Eggs Free Range 12 Pack,Dairy,6.2,22,Sunny Farm,false
+P1005,Chicken Breast 1kg,Meat,12.5,18,Aussie Poultry,false
+P1006,Pasta 500g,Pantry,1.9,110,Coles Brand,true
+P1007,Rice Long Grain 5kg,Pantry,15.0,12,SunRice,false
+P1008,Dishwashing Liquid 1L,Household,3.8,60,CleanCo,true
